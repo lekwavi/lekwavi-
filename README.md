@@ -1,2 +1,2 @@
-# lekwavi-
+# lekwavi
 Just another repository
